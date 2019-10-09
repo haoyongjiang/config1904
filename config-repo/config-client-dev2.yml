@@ -11,4 +11,4 @@ spring:
 mybatis:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: com.kobe.pojo
-myname: zhangsan teach in class1904xxx
+myname: zhangsan teach in class1904xxx666
